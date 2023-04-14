@@ -4,4 +4,4 @@ This is a small passion project of mine. Microsoft Intune has evolved like never
 
 This is Version 1.0 and I would like to make this a continuous working infographic document. A PDF of the same infograph can be found in the GitHub repo and please feel free to comment and suggest or raise issues if needed.
 
-You will see the versions of the IntuneMaps.io. Please download the PDF file if you need to see the functionality.
+You will see the versions of the IntuneMaps.Tech. Please download the PDF file if you need to see the functionality.
